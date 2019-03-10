@@ -13,6 +13,7 @@ Not applicable for individual project.
 
 # SECTION 5 : USER GUIDE
 This mortgage home loan approval project was enhanced with KIE workbench version 7.17.0 http://jbpm.org/
+### Download the zip file from GitHub, unzip and import into KIE.
 
 # SECTION 6 : PROJECT REPORT / PAPER
 Not applicable for individual project
