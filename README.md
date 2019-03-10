@@ -11,11 +11,10 @@ Email (Optional) : E0385035@u.nus.edu
 
 
 ## USER GUIDE
-This mortgage home loan approval project was enhanced with KIE workbench version 7.17.0 http://jbpm.org/
-# Download the zip file from GitHub, unzip and import into KIE.
+Download the zip file from GitHub, unzip and import into KIE.
 
-# PROJECT REPORT / PAPER
+## PROJECT REPORT / PAPER
 Not applicable for individual project
 
-# MISCELLANEOUS
+## MISCELLANEOUS
 N.A
