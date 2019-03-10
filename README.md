@@ -5,7 +5,7 @@ The individual project focuses on enhancing the mortgage loan approval project b
 ## CREDITS / PROJECT CONTRIBUTION
 Official Full Name	: Ani Sivaram Porkalangad Ayyappan
 
-Student ID (MTech Applicable)	: A0195404E
+Student ID (MTech Part Time NUS-ISS)	: A0195404E
 
 Email (Optional) : E0385035@u.nus.edu
 
